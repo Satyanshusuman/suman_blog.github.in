@@ -1,0 +1,15 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:123456@satyanshu/my_blog",
+        "prod_uri" :"mysql://root:123456@satyanshu/my_blog",
+        "fb_url":"https://www.facebook.com/login/",
+        "tw_url":"https://twitter.com/",
+        "git_url":"https://github.com/",
+        "gmail_user":"sumansatyanshu16@gmail.com",
+        "gmail_pass":"yuuqjwkhytgfmpft"
+       
+    }
+
+}
